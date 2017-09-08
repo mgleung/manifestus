@@ -1,0 +1,2 @@
+# manifestus
+Easier manifests
